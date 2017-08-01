@@ -6,5 +6,28 @@
 	text-align: center;
 }
 .jumbotron{
+	background-color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
+.panel-primary>.panel-heading{
 	background-color: #02cac8;
+	
+}
+.panel-primary {
+	border-color: #02cac8;	
+	font-family: 'Montserrat', sans-serif;
+}
+#submit{
+	background-color: #02cac8;
+	font-family: 'Montserrat', sans-serif;
+	border-color: #02cac8;	
+
+}
+
+.table{
+	font-family: 'Open Sans', sans-serif;
+}
+.body{
+	background-image:url(.images/nyc.jpg);
+	
 }
